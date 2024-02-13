@@ -1,4 +1,4 @@
-### Hi 👋 My name is [Nayan!](https://painayan118.github.io/)
+### Hi 👋 My name is [Nayan!](https://painayan18.github.io/)
 
 <br/>
 
