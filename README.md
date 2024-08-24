@@ -1,8 +1,6 @@
 ## Hi 👋 I'm Nayan, a Software Developer.
 
-
 <br/>
-
 
 ### My Languages and Tools:
 
