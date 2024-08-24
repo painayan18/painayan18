@@ -1,10 +1,10 @@
-### Hi 👋 I'm Nayan, a Software Developer.
+## Hi 👋 I'm Nayan, a Software Developer.
 
 
 <br/>
 
 
-**My Languages and Tools:**
+### My Languages and Tools:
 
 <span style="display: inline-block">
     <img src="icons/python.png" />
