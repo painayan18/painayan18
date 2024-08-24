@@ -5,6 +5,7 @@
 
 
 **My Languages and Tools:**
+
 <span style="display: inline-block">
     <img src="icons/python.png" />
     <img src="icons/java.png" />
