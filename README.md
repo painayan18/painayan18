@@ -2,7 +2,7 @@
 
 <br/>
 
-### My Languages and Tools:
+### My Languages and Tools:<br/>
 
 <span style="display: inline-block">
     <img src="icons/python.png" />
