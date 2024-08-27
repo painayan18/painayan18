@@ -3,15 +3,16 @@
 
 ### My Languages and Tools:<br/><br/>
 
-<span style="display: inline-block">
-    <img src="icons/python.png" />
-    <img src="icons/java.png" />
-    <img src="icons/cpp.png" />
-    <img src="icons/javascript.png" />
-    <img src="icons/react.png" />
-    <img src="icons/html-5.png" />
-    <img src="icons/css-3.png" />
+<span style="display: inline-block;">
+    <img src="icons/python.png" alt="Python" />&emsp;
+    <img src="icons/java.png" alt="Java" />&emsp;
+    <img src="icons/cpp.png" alt="C++" />&emsp;
+    <img src="icons/javascript.png" alt="JavaScript" />&emsp;
+    <img src="icons/react.png" alt="React" />&emsp;
+    <img src="icons/html-5.png" alt="HTML5" />&emsp;
+    <img src="icons/css-3.png" alt="CSS3" />&emsp;
 </span>
+
 <br/><br/><br/><br/>
 
 *Check out my [website](https://nayanpai.net)!*
